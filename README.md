@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/javierbrea/javierbrea/master/assets/github-profile-header.png" alt="Javier Brea - software engineer, front-end specialist">
+<img src="https://raw.githubusercontent.com/javierbrea/javierbrea/main/assets/github-profile-header.jpg" alt="Javier Brea - software engineer, front-end specialist">
 
 Hi, I'm Javier. I'm a software engineer who is passionate about making open-source. I'm writing code professionally since 2004, working as a front-end specialist since 2010, and as a front-end architect since 2015.
 
