@@ -7,6 +7,10 @@ Some technologies I currently enjoy working with include ReactJS, Node.js, Gatsb
 I'm currently working for Amaris, as head of software development at [Telefonica I+D](https://github.com/Telefonica).
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javierbrea&count_private=true&show_icons=true&theme=light" />
-  <img width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierbrea&layout=compact&theme=light" />
+  <a href="https://github.com/javierbrea">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=javierbrea&count_private=true&show_icons=true&theme=light" />
+  </a>
+  <a href="https://github.com/javierbrea">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierbrea&layout=compact&theme=light" />
+  </a>
 </p>
