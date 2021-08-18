@@ -4,7 +4,7 @@ Hi, I'm Javier. I'm a software engineer who is passionate about making open-sour
 
 Some technologies I currently enjoy working with include ReactJS, Node.js, Gatsby, Cypress, ESLint plugins, CI-CD tools, etc. And I love to continue learning and exploring new techs.
 
-I'm currently working for Amaris, as head of software development at [Telefonica I+D](https://github.com/Telefonica).
+I'm currently working as head of software development at [Telefonica Tech](https://tech.telefonica.com/).
 
 <p align="center">
   <a href="https://github.com/javierbrea">
