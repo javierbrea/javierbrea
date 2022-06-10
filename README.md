@@ -4,7 +4,7 @@ Hi, I'm Javier. I'm currently working as head of front-end software development 
 
 I'm writing code professionally since 2002, working as a front-end specialist since 2009, and as a front-end architect since 2014.
 
-My main skills are: building web apps in JavaScript & Node.js, CI/CD, development tools, and E2E testing. Framework agnostic, currently using mainly React and Node.js. I am known for being methodical and detail oriented, a high quality code advocate, oriented to modular solutions, and open source author.
+My main skills are: building web apps in JavaScript & Node.js, CI/CD, development tools, and E2E testing. Framework agnostic, using mainly React, Node.js, TypeScript, Github actions and Cypress. I am known for being methodical and detail oriented, a high quality code advocate, oriented to modular solutions, and open source author.
 
 <p align="center">
   <a href="https://github.com/javierbrea">
