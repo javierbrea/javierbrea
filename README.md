@@ -1,13 +1,38 @@
-Hi, I'm Javier.
+![Header](./assets/github-header-banner.png)
 
-* I'm currently working as Senior Engineering Manager for Telefónica.
-* I'm writing code professionally since 2002, working as a front-end specialist since 2009, and as a front-end architect since 2014.
-* My main skills are: Node.js, TypeScript, JavaScript, React.js. CI/CD and automation, development tools, E2E testing.
-* I am known for being methodical and detail oriented, a high quality code advocate, oriented to modular solutions, and open source author.
-* Strict methodology, good practices, clean code and documentation are my priorities.
+## 👋 Hi, I'm Javier
+
+**Senior Full-Stack Engineer at Telefónica | Open Source Contributor**
+
+With 20+ years building production software across the entire stack, I specialize in crafting scalable front-end architectures, and developer tools that empower teams to work more efficiently.
+
+### 🎯 What I'm About
+- 🏗️ Building full-stack architectures that scale
+- 🛠️ Creating developer tools
+- 📚 Writing clean, documented, maintainable code
+- 🌟 Contributing to open source projects
+
+### 💡 Engineering Philosophy
+
+- **Methodical** — Systematic approach to problem-solving across the stack
+- **Quality-driven** — High standards for maintainability and documentation
+- **Modular thinker** — Building reusable, composable solutions
+- **Automation advocate** — If you do it twice, automate it
+- **Full-stack minded** — Understanding the entire system from database to browser
+
+## 🚀 Current Focus
+
+- Improving developer experience with custom ESLint and VSCode plugins
+- Exploring AI Agents and MCP servers for enhanced automation
+
+---
+
+*Clean code advocate. Automation enthusiast. Open source contributor.*
+
+---
 
 <p align="center">
   <a href="https://github.com/javierbrea">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=javierbrea&count_private=true&show_icons=true&theme=light" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=javierbrea&rank_icon=percentile" />
   </a>
 </p>
