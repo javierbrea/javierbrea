@@ -1,5 +1,3 @@
-![Header](./assets/github-header-banner.png)
-
 ## 👋 Hi, I'm Javier
 
 **Senior Full-Stack Engineer at Telefónica | Open Source Contributor**
@@ -24,10 +22,6 @@ With 20+ years building production software across the entire stack, I specializ
 
 - Improving developer experience with custom ESLint and VSCode plugins
 - Exploring AI Agents and MCP servers for enhanced automation
-
----
-
-*Clean code advocate. Automation enthusiast. Open source contributor.*
 
 ---
 
