@@ -1,14 +1,15 @@
 ## 👋 Hi, I'm Javier
 
-**Senior Full-Stack Engineer at Telefónica | Open Source Contributor**
+**Senior Full-Stack Engineer | Open Source Contributor**
 
 With 20+ years building production software across the entire stack, I specialize in crafting scalable front-end architectures, and developer tools that empower teams to work more efficiently.
 
 ### 🎯 What I'm About
-- 🏗️ Building full-stack architectures that scale
-- 🛠️ Creating developer tools
-- 📚 Writing clean, documented, maintainable code
-- 🌟 Contributing to open source projects
+- Building full-stack architectures that scale
+- Creating developer tools
+- Writing clean, documented, maintainable code
+- Contributing to open source projects
+- Currently working at Telefónica as a Senior Software Engineer
 
 ### 💡 Engineering Philosophy
 
