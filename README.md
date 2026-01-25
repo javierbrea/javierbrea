@@ -28,6 +28,6 @@ With 20+ years building production software across the entire stack, I specializ
 
 <p align="center">
   <a href="https://github.com/javierbrea">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=javierbrea&rank_icon=percentile" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=javierbrea" />
   </a>
 </p>
