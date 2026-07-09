@@ -2,7 +2,7 @@
 
 **Senior Full-Stack Engineer | Open Source Contributor**
 
-With 20+ years building production software across the entire stack, I specialize in crafting scalable front-end architectures, and developer tools that empower teams to work more efficiently.
+20+ years building production software across the entire stack.
 
 ### 🎯 What I'm About
 - Building full-stack architectures that scale
@@ -18,16 +18,3 @@ With 20+ years building production software across the entire stack, I specializ
 - **Modular thinker** — Building reusable, composable solutions
 - **Automation advocate** — If you do it twice, automate it
 - **Full-stack minded** — Understanding the entire system from database to browser
-
-## 🚀 Current Focus
-
-- Improving developer experience with custom ESLint and VSCode plugins
-- Exploring AI Agents and MCP servers for enhanced automation
-
----
-
-<p align="center">
-  <a href="https://github.com/javierbrea">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=javierbrea" />
-  </a>
-</p>
